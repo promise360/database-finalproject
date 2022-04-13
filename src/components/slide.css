@@ -1,0 +1,45 @@
+.slide1a{
+    background: url(../components/imagez/loft.jpg);
+    height: 200px;
+    width: 80%;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+
+    
+
+}
+.slide2b{
+    background: url(../components/imagez/lsetff.jpg);
+    height: 200px;
+    width: 80%;
+    background-position: center;
+    background-size: contain;
+    display: wrap;
+    background-repeat: no-repeat;
+
+      
+
+    
+}
+.slide3c{
+    background: url(../components/imagez/usad.jpg);
+    height: 200px;
+    width: 80%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.slide4d{
+    background: url(../components/imagez/wehb.jpg);
+    height: 200px;
+    width: 80%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
